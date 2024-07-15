@@ -1,3 +1,7 @@
+// Task Management App
+// Created by ffaadhilah
+// 2024
+
 import 'package:flutter/material.dart';
 import '../models/task.dart';
 
